@@ -17,6 +17,7 @@
 #import "ColorMacro.h"
 #import "TCUtil.h"
 #import "HUDHelper.h"
+#import "TCConfig.h"
 
 #if POD_PITU
 //#import "MCCameraDynamicView.h"

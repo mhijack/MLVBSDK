@@ -20,7 +20,7 @@
 #import "TCAccountMgrModel.h"
 #import "UIView+Additions.h"
 #import <TCBeautyPanel/TCBeautyPanel.h>
-#import <AudioEffectSettingKit/AudioEffectSettingKit.h>
+#import "TCConfig.h"
 
 #if POD_PITU
 //#import "MCTip.h"

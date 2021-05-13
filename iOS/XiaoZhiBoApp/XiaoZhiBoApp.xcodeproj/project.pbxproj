@@ -139,7 +139,7 @@
 		91B45A281E8CB0FF0058E8F6 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91B45A231E8CB0FF0058E8F6 /* Media.xcassets */; };
 		A0B5EB8724D3C7E50091AD5E /* GenerateTestUserSig.m in Sources */ = {isa = PBXBuildFile; fileRef = A0B5EB8524D3C7E50091AD5E /* GenerateTestUserSig.m */; };
 		B732EBB41D7C593C006E6FA0 /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B732EBB31D7C593C006E6FA0 /* libresolv.tbd */; };
-		CEEDF8282181FF2900D4EB94 /* BuildFile in Frameworks */ = {isa = PBXBuildFile; };
+		CEEDF8282181FF2900D4EB94 /* (null) in Frameworks */ = {isa = PBXBuildFile; };
 		D8D256811261DF4C40C7748A /* libPods-XiaoZhiBoApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 894E4A2363E21E853A1F9757 /* libPods-XiaoZhiBoApp.a */; };
 		EF47CE5B1D4B1ED60028B598 /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = EF47CE5A1D4B1ED60028B598 /* libstdc++.tbd */; };
 		EF47CE5D1D4B1EE10028B598 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF47CE5C1D4B1EE10028B598 /* AVFoundation.framework */; };
@@ -212,13 +212,6 @@
 			proxyType = 2;
 			remoteGlobalIDString = 40AF719A247D036200EBB371;
 			remoteInfo = AudioEffectSettingKit;
-		};
-		40DB70EC249B56C200B15EDA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 40DB7095249B56C100B15EDA /* AudioEffectSettingKit.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 40AF71AA247D03E700EBB371;
-			remoteInfo = AudioEffectSettingKitExample;
 		};
 		40DB70EE249B56C200B15EDA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -934,7 +927,7 @@
 				91A4DAD81D7EB5FB00B47AA3 /* CoreGraphics.framework in Frameworks */,
 				91A4DAD61D7EB5F600B47AA3 /* libstdc++.tbd in Frameworks */,
 				91A4DAD51D7EB5F100B47AA3 /* libresolv.tbd in Frameworks */,
-				CEEDF8282181FF2900D4EB94 /* BuildFile in Frameworks */,
+				CEEDF8282181FF2900D4EB94 /* (null) in Frameworks */,
 				914C597E1D7D5C1200EB763D /* ReplayKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1006,7 +999,6 @@
 			isa = PBXGroup;
 			children = (
 				40DB70EB249B56C200B15EDA /* AudioEffectSettingKit.framework */,
-				40DB70ED249B56C200B15EDA /* AudioEffectSettingKitExample.app */,
 				40DB70EF249B56C200B15EDA /* AudioEffectSettingKitResources.bundle */,
 			);
 			name = Products;
@@ -1862,13 +1854,6 @@
 			fileType = wrapper.framework;
 			path = AudioEffectSettingKit.framework;
 			remoteRef = 40DB70EA249B56C200B15EDA /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		40DB70ED249B56C200B15EDA /* AudioEffectSettingKitExample.app */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.application;
-			path = AudioEffectSettingKitExample.app;
-			remoteRef = 40DB70EC249B56C200B15EDA /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 		40DB70EF249B56C200B15EDA /* AudioEffectSettingKitResources.bundle */ = {

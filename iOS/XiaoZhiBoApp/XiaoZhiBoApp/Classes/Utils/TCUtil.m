@@ -16,6 +16,7 @@
 #import "TCUserProfileModel.h"
 #import "TCAccountMgrModel.h"
 #import "TCRoomListModel.h"
+#import "TCConfig.h"
 
 @implementation TCUtil
 

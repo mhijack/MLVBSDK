@@ -9,7 +9,7 @@
  * 4. App 主色调
  * 5. 是否启用连麦
  */
-
+#import "TCConfig.h"
 #ifndef TCGlobalConfig_h
 #define TCGlobalConfig_h
 

@@ -16,6 +16,7 @@
 #import "UIView+Additions.h"
 #import "HUDHelper.h"
 #import <Masonry/Masonry.h>
+#import "TCConfig.h"
 
 #define VIDEO_VIEW_WIDTH            100
 #define VIDEO_VIEW_HEIGHT           150
